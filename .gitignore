@@ -1,0 +1,73 @@
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM/
+ARM64/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.sln.ide
+
+# Visual Studio cache and generated files
+*.cache
+*.tmp_proj
+*.log
+*.pdb
+*.ilk
+*.meta
+
+# NuGet
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+project.lock.json
+project.fragment.lock.json
+
+# MSIX / Store packaging output
+*.msix
+*.msixbundle
+*.appx
+*.appxbundle
+*.msixupload
+*.appxupload
+*.appinstaller
+*.cer
+*.pfx
+
+# Generated test and coverage results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+coverage/
+coverage.*
+
+# Windows temporary files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Operating system files
+.DS_Store
+
+# Temporary files
+*.bak
+*.old
+*.orig
+*.swp
+*.swo
+*.temp
+
+# User-specific local settings
+*.userprefs
