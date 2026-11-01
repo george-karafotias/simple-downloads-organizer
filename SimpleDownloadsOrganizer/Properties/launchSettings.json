@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SimpleDownloadsOrganizer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SimpleDownloadsOrganizer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

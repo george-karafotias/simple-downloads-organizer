@@ -71,3 +71,6 @@ $RECYCLE.BIN/
 
 # User-specific local settings
 *.userprefs
+
+# Generated MSIX packaging output
+AppPackages/

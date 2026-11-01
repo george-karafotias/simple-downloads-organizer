@@ -1,0 +1,2 @@
+MainPackage=C:\Users\geoka\OneDrive\Documents\GitHub\SimpleDownloadsOrganizer\SimpleDownloadsOrganizer\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\Upload\SimpleDownloadsOrganizer_1.0.2.0_x64.msix
+SymbolPackage=C:\Users\geoka\OneDrive\Documents\GitHub\SimpleDownloadsOrganizer\SimpleDownloadsOrganizer\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\Upload\SimpleDownloadsOrganizer_1.0.2.0\SimpleDownloadsOrganizer_1.0.2.0_x64.appxsym
